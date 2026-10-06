@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy for Home Task - Manager
 
-_Last updated: October 4, 2026_
+_Last updated: October 5, 2026_
 
 Home Task - Manager ("the app") helps you keep track of household tasks. This policy explains what happens to your information.
 
@@ -14,9 +14,15 @@ Home Task - Manager ("the app") helps you keep track of household tasks. This po
 
 ## Where your data lives
 
-The tasks and categories you create are stored on your device. If you are signed in to iCloud, the app also syncs them between your own devices using Apple's iCloud (CloudKit) service, in your private iCloud database. This data belongs to your Apple ID account, is handled by Apple under [Apple's privacy policy](https://www.apple.com/legal/privacy/), and is not accessible to the developer.
+The tasks, categories, notes and images you create are stored on your device. If you are signed in to iCloud, the app also syncs them between your own devices using Apple's iCloud (CloudKit) service, in your private iCloud database. This data belongs to your Apple ID account, is handled by Apple under [Apple's privacy policy](https://www.apple.com/legal/privacy/), and is not accessible to the developer.
+
+**Images you attach to a task.** You choose images from your photo library to attach to a task. The app saves a smaller copy of each image with the task, on your device and in your private iCloud, where it counts against your iCloud storage. The original stays in your photo library, and the app does not read any other photos. If you delete an attachment or the task, the copy is removed from your device and from your iCloud storage.
 
 If you are not signed in to iCloud, your data stays on your device only.
+
+## Notifications
+
+If you allow notifications, the app can remind you of a task on its due date and show the number of tasks due today on the app icon. These reminders are created and delivered on your device; no information about them is sent to the developer or to any other party.
 
 ## Sharing
 
